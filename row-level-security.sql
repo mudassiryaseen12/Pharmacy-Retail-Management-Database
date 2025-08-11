@@ -97,3 +97,6 @@ SELECT * FROM pharmacies;       -- Should return only pharmacy 3
 
 -- 🔁 Reset role (if previously used SET ROLE)
 RESET ROLE;
+
+
+ --Row-Level Security Setup for Pharmacy DB done ---
